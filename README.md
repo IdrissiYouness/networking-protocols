@@ -17,18 +17,18 @@
 ## How to Use
   1. Navigate to the lab directory you want to work on:
 ```bash
-     cd apache-lab
+cd apache-lab
 ```
   2. Start the lab:
 ```bash
-     lstart
+lstart
 ```
   3. Follow the instructions in the `README.md` file of each lab for specific tasks and configurations if needed.
   4. To stop the lab, use:
 ```bash
-     lshalt
+lshalt
 ```
   5. To clean up the lab environment, use:
 ```bash
-     lclean
+lclean
 ```
