@@ -1,0 +1,11 @@
+ifconfig eth0 192.168.1.1 up
+ifconfig eth0:0 192.168.1.254 up
+
+a2enmod userdir
+
+
+a2ensite smi
+a2ensite sma
+a2ensite info
+
+/etc/init.d/apache2 start
