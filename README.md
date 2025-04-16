@@ -3,11 +3,11 @@
 
 ## Available Labs
   - [Apache Web Server](apache-lab/README.md) - Learn how to set up and configure an Apache web server.
+  - [DHCP Server](dhcp-lab/README.md) - Understand how to configure a DHCP server for dynamic IP address allocation.
+  - [FTP SSH Server](ftp-ssh-lab/README.md) - Set up and manage FTP and SSH servers for file transfer and secure shell access. 
 
 ## Coming Soon
-  - DHCP Server Lab
   - DNS Server Lab
-  - FTP Server Lab
   - ...
 
 ## Requirements
